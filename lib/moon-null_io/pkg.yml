@@ -1,0 +1,6 @@
+---
+name: NullIO
+author: IceDragon200 (Corey Powell) (mistdragon100@gmail.com)
+description: "An empty, no-op IO object"
+require: _basalt.rb
+deps: []
