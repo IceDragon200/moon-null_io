@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name        = 'moon-null_io'
   s.summary     = 'NullIO'
   s.description = 'An empty, no-op IO object in ruby.'
-  s.homepage    = 'https://github.com/IceDragon200/moon-null_io'
+  s.homepage    = 'https://github.com/polyfox/moon-null_io'
   s.email       = 'mistdragon100@gmail.com'
   s.version     = '1.0.0'
   s.platform    = Gem::Platform::RUBY
